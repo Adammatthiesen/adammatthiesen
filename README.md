@@ -1,27 +1,20 @@
 ## <div align="center">Greetings! I'm Adam Matthiesen a Self Employed IT Support & Network Engineer, since 2019 🚀</div>  
 
-- :man_technologist: I'm a member of [Matthiesen.xyz](https://github.com/MatthiesenXYZ) on Github!
-- 🔭 I’m currently working on [`Astro-GhostCMS`](https://astro-ghostcms.xyz), [`astro-remote`](https://github.com/natemoo-re/astro-remote), and [`Astro-CommerceJS`](https://github.com/Adammatthiesen/astro-commercejs)
+- :man_technologist: I'm a member of [`Matthiesen.xyz`](https://github.com/MatthiesenXYZ) & [`Editify`](https://github.com/Editify) on Github!
+- 🔭 I’m currently a Maintainer of:
+  - [`Astro-GhostCMS & Starlight-GhostCMS`](https://astro-ghostcms.xyz)
+  - [`Astro-CommerceJS`](https://github.com/Adammatthiesen/astro-commercejs)
+  - [`Astro-Snipcart`](https://github.com/Adammatthiesen/astro-snipcart)
+  - [`Astro-Remote`](https://github.com/natemoo-re/astro-remote) by `Nate M.`
+  - [`Ultrahtml`](https://github.com/natemoo-re/ultrahtml) by `Nate M.`
 - 🌱 I’m currently learning Advanced Astro Techniques, and TypeScript   
 - ❓ Ask me about anything related to Starting your own Open Source Business   
-- ⚡ Fun fact: 99% of my home network is Open Source  
+- ⚡ Fun fact: 99% of my home network is Open Source
+- 👨‍🚀 I'm a Member of the *Support Patrol* on Astro's [Astro Lounge](https://astro.build/chat) Discord Server.
+
+### [`Astro`](https://github.com/withastro) Contributions
+[![@Adammatthiesen Astro contributions](https://astro.badg.es/v2/contributor/Adammatthiesen.svg)](https://astro.badg.es/contributor/Adammatthiesen/)
   
-<div align="center">
-<a href="https://github.com/adammatthiesen" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/amatthiesen1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-   
-<br/>  
-<div align="center">
-  <a href="https://www.buymeacoffee.com/adammatthiesen" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-        align="center" />
-</a></div>
- 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
  
@@ -57,3 +50,17 @@
 </div>
 
 </td></tr></table>
+
+<div align="center">
+<a href="https://github.com/adammatthiesen" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/amatthiesen1" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.buymeacoffee.com/adammatthiesen" target="_blank">
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee alt=buymeacoffee style="margin-bottom: 5px;"/>
+</a>
+</div>
+
+ 
