@@ -53,13 +53,13 @@
 
 <div align="center">
 <a href="https://github.com/adammatthiesen" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/amatthiesen1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.buymeacoffee.com/adammatthiesen" target="_blank">
-<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee alt=buymeacoffee style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee&label="  alt="buymeacoffee" style="margin-bottom: 5px;"/>
 </a>
 </div>
 
