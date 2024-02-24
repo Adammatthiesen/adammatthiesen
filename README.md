@@ -3,6 +3,7 @@
 - :man_technologist: I'm a member of [`Matthiesen.xyz`](https://github.com/MatthiesenXYZ) & [`Editify`](https://github.com/Editify) on Github!
 - 🔭 I’m currently a Maintainer of:
   - [`Astro-GhostCMS & Starlight-GhostCMS`](https://astro-ghostcms.xyz)
+  - [`Astro-Gists`](https://github.com/MatthiesenXYZ/astro-gists)
   - [`Astro-CommerceJS`](https://github.com/Adammatthiesen/astro-commercejs)
   - [`Astro-Snipcart`](https://github.com/Adammatthiesen/astro-snipcart)
   - [`Astro-Remote`](https://github.com/natemoo-re/astro-remote) by `Nate M.`
