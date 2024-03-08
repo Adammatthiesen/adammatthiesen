@@ -1,6 +1,6 @@
 ## <div align="center">Greetings! I'm Adam Matthiesen a Self Employed IT Support & Network Engineer, since 2019 🚀</div>  
 
-- :man_technologist: I'm a member of [`Matthiesen.xyz`](https://github.com/MatthiesenXYZ) & [`Editify`](https://github.com/Editify) on Github!
+- :man_technologist: I'm a member of [`Matthiesen.xyz`](https://github.com/MatthiesenXYZ) on Github!
 - 🔭 I’m currently a Maintainer of:
   - [`Astro-GhostCMS & Starlight-GhostCMS`](https://astro-ghostcms.xyz)
   - [`Astro-Gists`](https://github.com/MatthiesenXYZ/astro-gists)
