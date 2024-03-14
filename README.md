@@ -1,9 +1,11 @@
+<div>
 <a href="https://github.com/astrolicious"><img src="https://avatars.githubusercontent.com/u/162373440?s=200&v=4"  height="64px" width="64px"/></a>
-## <div align="center">Greetings! I'm Adam Matthiesen a Self Employed IT Support & Network Engineer, since 2019 🚀</div>  
+<h2>Greetings! I'm Adam Matthiesen, self employed since 2019 🚀</h2>
+</div>
 
-- :man_technologist: I'm a member of [`Matthiesen.xyz`](https://github.com/MatthiesenXYZ) on Github!
-- 🚀I'm helping expand the Astro ecosystem into the future with [`Astrolicious`](https://github.com/astrolicious) on Github!
-- 🔭 I’m currently a Maintainer of:
+- :man_technologist: Owner of [`MatthiesenXYZ`](https://github.com/MatthiesenXYZ) on Github!
+- 🚀Helping expand the Astro Ecosystem with [`Astrolicious`](https://github.com/astrolicious) on Github!
+- 🔭 I’m currently Maintaining:
   - [`Astro-GhostCMS & Starlight-GhostCMS`](https://astro-ghostcms.xyz)
   - [`Astro-Hashnode`](https://github.com/MatthiesenXYZ/astro-hashnode)
   - [`Astro-Gists`](https://github.com/MatthiesenXYZ/astro-gists)
@@ -11,7 +13,7 @@
   - [`Astro-Snipcart`](https://github.com/Adammatthiesen/astro-snipcart)
   - [`Astro-Remote`](https://github.com/natemoo-re/astro-remote) by `Nate M.`
   - [`Ultrahtml`](https://github.com/natemoo-re/ultrahtml) by `Nate M.`
-- 🌱 I’m currently learning Advanced Astro Techniques, and TypeScript   
+- 🌱 I’m currently learning Advanced Astro Techniques!   
 - ❓ Ask me about anything related to Starting your own Open Source Business   
 - ⚡ Fun fact: 99% of my home network is Open Source
 - 👨‍🚀 I'm a Member of the *Support Patrol* on Astro's [Astro Lounge](https://astro.build/chat) Discord Server.
