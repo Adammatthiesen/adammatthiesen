@@ -1,6 +1,7 @@
 ## <div align="center">Greetings! I'm Adam Matthiesen a Self Employed IT Support & Network Engineer, since 2019 🚀</div>  
 
 - :man_technologist: I'm a member of [`Matthiesen.xyz`](https://github.com/MatthiesenXYZ) on Github!
+- 🚀I'm helping expand the Astro ecosystem into the future with [`Astrolicious`](https://github.com/astrolicious) on Github!
 - 🔭 I’m currently a Maintainer of:
   - [`Astro-GhostCMS & Starlight-GhostCMS`](https://astro-ghostcms.xyz)
   - [`Astro-Hashnode`](https://github.com/MatthiesenXYZ/astro-hashnode)
