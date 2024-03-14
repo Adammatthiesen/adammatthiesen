@@ -18,7 +18,7 @@
 - ⚡ Fun fact: 99% of my home network is Open Source
 - 👨‍🚀 I'm a Member of the *Support Patrol* on Astro's [Astro Lounge](https://astro.build/chat) Discord Server.
 
-### [`Astro`](https://github.com/withastro) Contributions
+### My [`Astro`](https://github.com/withastro) Contributions
 [![@Adammatthiesen Astro contributions](https://astro.badg.es/v2/contributor/Adammatthiesen.svg)](https://astro.badg.es/contributor/Adammatthiesen/)
   
 ## My Skill Set  
