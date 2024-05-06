@@ -6,6 +6,7 @@
 - :man_technologist: Owner of [`MatthiesenXYZ`](https://github.com/MatthiesenXYZ) on Github!
 - 🚀Helping expand the Astro Ecosystem with [`Astrolicious`](https://github.com/astrolicious) on Github!
 - 🔭 I’m currently Maintaining:
+  - [`StudioCMS`](https://astro-studiocms.xyz)
   - [`Astro-GhostCMS & Starlight-GhostCMS`](https://astro-ghostcms.xyz)
   - [`Astro-Hashnode`](https://github.com/MatthiesenXYZ/astro-hashnode)
   - [`Astro-Gists`](https://github.com/MatthiesenXYZ/astro-gists)
