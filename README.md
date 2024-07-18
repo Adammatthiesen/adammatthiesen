@@ -11,7 +11,6 @@
   - [`Astro-Hashnode`](https://github.com/MatthiesenXYZ/astro-hashnode)
   - [`Astro-Gists`](https://github.com/MatthiesenXYZ/astro-gists)
   - [`Astro-CommerceJS`](https://github.com/Adammatthiesen/astro-commercejs)
-  - [`Astro-Snipcart`](https://github.com/Adammatthiesen/astro-snipcart)
   - [`Astro-Remote`](https://github.com/natemoo-re/astro-remote) by `Nate M.`
   - [`Ultrahtml`](https://github.com/natemoo-re/ultrahtml) by `Nate M.`
 - 🌱 I’m currently learning Advanced Astro Techniques!   
