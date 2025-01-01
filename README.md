@@ -1,18 +1,11 @@
 <div>
-<a href="https://github.com/astrolicious"><img src="https://avatars.githubusercontent.com/u/162373440?s=200&v=4"  height="64px" width="64px"/></a>
 <h2>Greetings! I'm Adam Matthiesen, self employed since 2019 🚀</h2>
 </div>
 
-- :man_technologist: Owner of [`MatthiesenXYZ`](https://github.com/MatthiesenXYZ) on Github!
-- 🚀Helping expand the Astro Ecosystem with [`Astrolicious`](https://github.com/astrolicious) on Github!
+- :man_technologist: Core Maintainer of [`withstudiocms`](https://github.com/withstudiocms) on Github!
 - 🔭 I’m currently Maintaining:
-  - [`StudioCMS`](https://astro-studiocms.xyz)
-  - [`Astro-GhostCMS & Starlight-GhostCMS`](https://astro-ghostcms.xyz)
-  - [`Astro-Hashnode`](https://github.com/MatthiesenXYZ/astro-hashnode)
-  - [`Astro-Gists`](https://github.com/MatthiesenXYZ/astro-gists)
-  - [`Astro-CommerceJS`](https://github.com/Adammatthiesen/astro-commercejs)
-  - [`Astro-Remote`](https://github.com/natemoo-re/astro-remote) by `Nate M.`
-  - [`Ultrahtml`](https://github.com/natemoo-re/ultrahtml) by `Nate M.`
+  - [`StudioCMS`](https://studiocms.dev)
+  - [`Astro-GhostCMS`](https://astro-ghostcms.xyz)
 - 🌱 I’m currently learning Advanced Astro Techniques!   
 - ❓ Ask me about anything related to Starting your own Open Source Business   
 - ⚡ Fun fact: 99% of my home network is Open Source
