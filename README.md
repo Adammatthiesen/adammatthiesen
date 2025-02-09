@@ -3,9 +3,6 @@
 </div>
 
 - :man_technologist: Core Maintainer of [`withstudiocms`](https://github.com/withstudiocms) on Github!
-- 🔭 I’m currently Maintaining:
-  - [`StudioCMS`](https://studiocms.dev)
-  - [`Astro-GhostCMS`](https://astro-ghostcms.xyz)
 - 🌱 I’m currently learning Advanced Astro Techniques!   
 - ❓ Ask me about anything related to Starting your own Open Source Business   
 - ⚡ Fun fact: 99% of my home network is Open Source
