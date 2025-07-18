@@ -2,13 +2,13 @@
 <h2>Greetings! I'm Adam Matthiesen, self employed since 2019 🚀</h2>
 </div>
 
-- :man_technologist: Core Maintainer of [`withstudiocms`](https://github.com/withstudiocms)!
-- 🌱 Maintainer of [Astro](https://github.com/withastro)!
-- 🌱 Maintainer of [Expressive-Code](https://github.com/expressive-code)!
-- 🌱 Maintainer of [BombShell](http://github.com/bombshell-dev)!
-- 🎮 Co-Owner of [Station48](https://github.com/Station48XYZ)!
+- :man_technologist: Core Maintainer of [@WithStudioCMS](https://github.com/withstudiocms)!
+- 🌱 Maintainer of [@WithAstro](https://github.com/withastro)!
+- 🌱 Maintainer of [@Expressive-Code](https://github.com/expressive-code)!
+- 🌱 Maintainer of [@BombShell-Dev](http://github.com/bombshell-dev)!
+- 🎮 Co-Owner of [@Station48XYZ](https://github.com/Station48XYZ)!
 - ⚡ Fun fact: 99% of my home network is Open Source
-- 👨‍🚀 I'm started as a member of the *Support Patrol* on Astro's [Astro Lounge](https://astro.build/chat) Discord Server and recently became a Maintainer!
+- 👨‍🚀 I started as a member of the *Support Patrol* on Astro's [Astro Lounge](https://astro.build/chat) Discord Server and recently became a Maintainer!
 
 ### My [`Astro`](https://github.com/withastro) Contributions
 [![@Adammatthiesen Astro contributions](https://astro.badg.es/v2/contributor/Adammatthiesen.svg)](https://astro.badg.es/contributor/Adammatthiesen/)
