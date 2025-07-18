@@ -6,6 +6,7 @@
 - 🌱 Maintainer of [Astro](https://github.com/withastro)!
 - 🌱 Maintainer of [Expressive-Code](https://github.com/expressive-code)!
 - 🌱 Maintainer of [BombShell](http://github.com/bombshell-dev)!
+- 🎮 Co-Owner of [Station48](https://github.com/Station48XYZ)!
 - ⚡ Fun fact: 99% of my home network is Open Source
 - 👨‍🚀 I'm started as a member of the *Support Patrol* on Astro's [Astro Lounge](https://astro.build/chat) Discord Server and recently became a Maintainer!
 
