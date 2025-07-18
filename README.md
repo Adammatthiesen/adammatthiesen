@@ -4,6 +4,8 @@
 
 - :man_technologist: Core Maintainer of [`withstudiocms`](https://github.com/withstudiocms)!
 - 🌱 Maintainer of [Astro](https://github.com/withastro)!
+- 🌱 Maintainer of [Expressive-Code](https://github.com/expressive-code)!
+- 🌱 Maintainer of [BombShell](http://github.com/bombshell-dev)!
 - ⚡ Fun fact: 99% of my home network is Open Source
 - 👨‍🚀 I'm started as a member of the *Support Patrol* on Astro's [Astro Lounge](https://astro.build/chat) Discord Server and recently became a Maintainer!
 
